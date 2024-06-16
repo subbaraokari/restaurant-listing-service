@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+restaurantListing,com.codeddecode.restaurantlisting.service,RestaurantService,0,57,0,2,0,10,0,6,0,5
+restaurantListing,com.codeddecode.restaurantlisting.entity,Restaurant,129,127,28,12,0,8,22,14,2,14
+restaurantListing,com.codeddecode.restaurantlisting.mapper,RestaurantMapper,0,5,0,0,0,1,0,1,0,1
+restaurantListing,com.codeddecode.restaurantlisting.mapper,RestaurantMapperImpl,4,59,2,2,2,17,2,3,0,3
+restaurantListing,com.codeddecode.restaurantlisting.controller,RestaurantController,0,29,0,0,0,6,0,4,0,4
+restaurantListing,com.codeddecode.restaurantlisting.dto,RestaurantDTO,127,129,27,13,0,8,21,15,2,14
+restaurantListing,com.codeddecode.restaurantlisting,RestaurantListingApplication,8,0,0,0,3,0,2,0,2,0
